@@ -36,7 +36,12 @@
 	cursor: default;
 	opacity: 0.5;
  }
+
  
+ html {
+	scroll-behavior: smooth;
+	-webkit-overflow-scrolling: touch;
+  }
 
 /*----------------------------------------*/
 
