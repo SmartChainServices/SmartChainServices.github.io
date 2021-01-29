@@ -537,7 +537,6 @@ ol {
 	color: #ffffff;
 	font-weight: 700;
 	line-height: 47px;
-	text-transform: uppercase;
 	margin-bottom: 28px;
 	position: relative;
 	top: 100px;
@@ -1198,7 +1197,6 @@ ol {
 .about__text h2 {
 	color: #111111;
 	font-weight: 700;
-	text-transform: uppercase;
 	margin-bottom: 15px;
 }
 
