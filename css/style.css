@@ -43,6 +43,16 @@
 	-webkit-overflow-scrolling: touch;
   }
 
+ .hot-link {
+	 color: rgb(19, 12, 71);
+	 text-decoration: underline;
+ }
+ 
+ .hot-link:hover {
+	 text-decoration: none;
+	 color: rgb(19, 12, 71);
+ }
+
 /*----------------------------------------*/
 
 /* Template default CSS
